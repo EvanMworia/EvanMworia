@@ -1,4 +1,6 @@
-### :fire: My Stats :
+### Hi there 👋
+#### Get to know me, I am Evans Githinji Mworia A Developer. Feel free to reach out to get to know me more, while we are here these are :
+### :fire: My Stats: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> :
 ## 📈 GitHub Stat's
 
 <a href="https://github.com/EvanMworia/EvanMworia">
@@ -17,7 +19,7 @@
 
 
 
-### Hi there 👋
+
  ![EvanMworia's github stats](https://github-readme-stats.vercel.app/api?username=EvanMworia&theme=midnight-purple&show_icons=true)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanMworia&theme=midnight-purple&show_icons=true)](https://github.com/EvanMworia/github-readme-stats)
