@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### Get to know me, I am Evans Githinji Mworia A Developer. Feel free to reach out to get to know me more, while we are here these are :
-### :fire: My Stats: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> :
+#### Get to know me, I am Evans Githinji Mworia A Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">. Feel free to reach out to get to know me more, while we are here these are :
+### :fire: My Stats:  :
 ## 📈 GitHub Stat's
 
 <a href="https://github.com/EvanMworia/EvanMworia">
@@ -15,14 +15,18 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvanMworia&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 
+## 📫 How to reach me: ...
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/evans-githinji/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+</div>
 
 
 
 
 
- ![EvanMworia's github stats](https://github-readme-stats.vercel.app/api?username=EvanMworia&theme=midnight-purple&show_icons=true)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanMworia&theme=midnight-purple&show_icons=true)](https://github.com/EvanMworia/github-readme-stats)
 
 <!--
 **EvanMworia/EvanMworia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
