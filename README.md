@@ -9,12 +9,13 @@
 <a href="https://github.com/EvanMworia/EvanMworia">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EvanMworia&count_private=true&show_icons=true&theme=algolia" height="150px">
 </a>
-
+<br/>
+<br/>
 ### ⚖️ 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvanMworia&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
-
+<br/>
+<br/>
 ## 📫 How to reach me: ...
  <div id="badges">
   <a href="https://www.linkedin.com/in/evans-githinji/">
